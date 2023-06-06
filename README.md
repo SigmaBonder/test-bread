@@ -1,2 +1,2 @@
 # test-bread
-This is a bread recipe.
+This is a nice bread recipe.
